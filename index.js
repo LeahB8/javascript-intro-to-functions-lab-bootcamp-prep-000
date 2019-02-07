@@ -17,5 +17,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  return
+  if ("hello" = "I can't hear you!")
+  else if ("HELLO" = "YES INDEED!")
+  else ("I love you, Grandma." = "I love you, too.")
 }
